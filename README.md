@@ -3,7 +3,8 @@
 A front-end only e-learning platform with login, course listings, progress tracking, and embedded YouTube video lectures.
 
 ## 📸 Screenshots
-- Login Page  
+- Login Page
+  ![Image](https://github.com/user-attachments/assets/dd15cce4-ed90-44d2-a2db-7c53c0551e75) 
 - Course List Page  
 - Video Player with Progress Tracking  
 
