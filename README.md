@@ -4,9 +4,11 @@ A front-end only e-learning platform with login, course listings, progress track
 
 ## 📸 Screenshots
 - Login Page
-  ![Image](https://github.com/user-attachments/assets/dd15cce4-ed90-44d2-a2db-7c53c0551e75) 
-- Course List Page  
-- Video Player with Progress Tracking  
+ ![Image](https://github.com/user-attachments/assets/8725691c-8624-402b-b422-86b9d2a7a759)
+- Course List Page
+![Image](https://github.com/user-attachments/assets/4a9b8bf1-8d16-4a12-b980-03f043a5a794)
+- Video Player with Progress Tracking
+![Image](https://github.com/user-attachments/assets/5023ce53-9918-4ac5-994e-71497a062c2f)
 
 ## ✨ Features
 - 🔐 Student login (name + email)
